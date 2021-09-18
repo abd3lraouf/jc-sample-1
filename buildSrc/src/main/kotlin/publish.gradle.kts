@@ -93,7 +93,7 @@ afterEvaluate {
                         version = "$version-SNAPSHOT"
                     }
                     description.set("A template for Kotlin Android projects")
-                    url.set("https://github.com/cortinico/kotlin-android-template/")
+                    url.set("https://github.com/abdelraoufsabri/jcsample1/")
 
                     licenses {
                         license {
@@ -103,18 +103,18 @@ afterEvaluate {
                     }
                     developers {
                         developer {
-                            id.set("cortinico")
-                            name.set("Nicola Corti")
+                            id.set("abdelraoufsabri")
+                            name.set("abdelraoufsabri")
                         }
                     }
                     scm {
-                        connection.set("scm:git:git://github.com/cortinico/kotlin-android-template.git")
-                        developerConnection.set("scm:git:ssh://github.com/cortinico/kotlin-android-template.git")
-                        url.set("https://github.com/cortinico/kotlin-android-template/")
+                        connection.set("scm:git:git://github.com/abdelraoufsabri/jcsample1.git")
+                        developerConnection.set("scm:git:ssh://github.com/abdelraoufsabri/jcsample1.git")
+                        url.set("https://github.com/abdelraoufsabri/jcsample1/")
                     }
                     issueManagement {
                         system.set("GitHub Issues")
-                        url.set("https://github.com/cortinico/kotlin-android-template/issues")
+                        url.set("https://github.com/abdelraoufsabri/jcsample1/issues")
                     }
                 }
             }
